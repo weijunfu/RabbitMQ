@@ -38,5 +38,5 @@ docker ps
 
 在浏览器中输入`http://<ip>:15672`, 输入用户名`admin`，输入密码`12345`, 成功登录。
 
-![RabbitMQ Login Page](.\images\md\rabbitmq-login.jpg)
+![RabbitMQ Login Page](images/md/rabbitmq-login.jpg)
 
